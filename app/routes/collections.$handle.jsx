@@ -7,7 +7,7 @@ import {
   Analytics,
 } from '@shopify/hydrogen';
 import {useVariantUrl} from '~/lib/variants';
-import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
+// import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
 
 /**
  * @type {MetaFunction<typeof loader>}

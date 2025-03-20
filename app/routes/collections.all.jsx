@@ -1,7 +1,7 @@
 import {useLoaderData, Link} from '@remix-run/react';
 import {getPaginationVariables, Image, Money} from '@shopify/hydrogen';
 import {useVariantUrl} from '~/lib/variants';
-import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
+// import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
 
 /**
  * @type {MetaFunction<typeof loader>}

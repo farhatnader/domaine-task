@@ -7,9 +7,9 @@ import {
   getAdjacentAndFirstAvailableVariants,
   useSelectedOptionInUrlParam,
 } from '@shopify/hydrogen';
-import {ProductPrice} from '~/components/ProductPrice';
-import {ProductImage} from '~/components/ProductImage';
-import {ProductForm} from '~/components/ProductForm';
+// import {ProductPrice} from '~/components/ProductPrice';
+// import {ProductImage} from '~/components/ProductImage';
+// import {ProductForm} from '~/components/ProductForm';
 
 /**
  * @type {MetaFunction<typeof loader>}

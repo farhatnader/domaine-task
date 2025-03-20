@@ -1,6 +1,6 @@
 import {useLoaderData, Link} from '@remix-run/react';
 import {getPaginationVariables, Image} from '@shopify/hydrogen';
-import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
+// import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
 
 /**
  * @param {LoaderFunctionArgs} args

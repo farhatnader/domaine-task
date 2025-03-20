@@ -8,8 +8,7 @@ export async function loader({request, params, context: {storefront}}) {
     storefront,
     request,
     params,
-    // locales: ['EN-US', 'EN-CA', 'FR-CA'],
-    getLink: ({type, baseUrl, handle, locale}) => {
+    getLink: ({type, baseUrl, handle}) => {
       return `${baseUrl}/${type}/${handle}`;
     },
   });
